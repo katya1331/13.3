@@ -1,0 +1,30 @@
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\bin\Debug\practica13.coll.exe.config
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\bin\Debug\practica13.coll.exe
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\bin\Debug\practica13.coll.pdb
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.csproj.AssemblyReference.cache
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.Form1.resources
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.Properties.Resources.resources
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.csproj.GenerateResource.cache
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.exe
+C:\Users\305-1\Documents\Zelina Pr-21\practica13.coll\obj\Debug\practica13.coll.pdb
+D:\Кодинг\katya\coll-main\practica13.coll\bin\Debug\practica13.coll.exe.config
+D:\Кодинг\katya\coll-main\practica13.coll\bin\Debug\practica13.coll.exe
+D:\Кодинг\katya\coll-main\practica13.coll\bin\Debug\practica13.coll.pdb
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.AssemblyReference.cache
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.Form1.resources
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.Properties.Resources.resources
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.GenerateResource.cache
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.CoreCompileInputs.cache
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.exe
+D:\Кодинг\katya\coll-main\practica13.coll\obj\Debug\practica13.coll.pdb
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.AssemblyReference.cache
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.Form1.resources
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.Properties.Resources.resources
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.GenerateResource.cache
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.csproj.CoreCompileInputs.cache
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.exe
+D:\Кодинг\coll-main\practica13.coll\obj\Debug\practica13.coll.pdb
+D:\Кодинг\coll-main\practica13.coll\bin\Debug\practica13.coll.exe.config
+D:\Кодинг\coll-main\practica13.coll\bin\Debug\practica13.coll.exe
+D:\Кодинг\coll-main\practica13.coll\bin\Debug\practica13.coll.pdb
